@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 171,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-tadami-0001",
@@ -2438,7 +2441,7 @@
   "blocks": 171,
   "chars": 3979,
   "poems": 171,
-  "yaku": 0,
+  "yaku": 171,
   "editions": 1,
   "updated": "2026-11-03",
   "updated_at": "2026-11-03T03:37:23+09:00"
